@@ -31,20 +31,20 @@ Database:
 •	SQL Database: Utilizes SQL to store user roles, student information, exam results, marks, vacation records, and attendance data.
 
 
+To Run The Project : 
 
+1.Run git clone 'link projer github'
 
-Run git clone 'link projer github'
+2.Run composer install
 
-Run composer install
+3.Run cp .env.example .env or copy .env.example .env
 
-Run cp .env.example .env or copy .env.example .env
+4.Run php artisan key:generate
 
-Run php artisan key:generate
+5.Run php artisan migrate
 
-Run php artisan migrate
+6.Run php artisan db:seed
 
-Run php artisan db:seed
+7.Run php artisan serve
 
-Run php artisan serve
-
-Go to link localhost:8000 OR 127.0.0.1:8000
+8.Go to link localhost:8000 OR 127.0.0.1:8000

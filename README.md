@@ -44,7 +44,7 @@ Database:
 
 To Run The Project : 
 
-1. Run "git clone 'link projer github'"
+1. Download the project from "https://github.com/Husam-Odat/Laravel-PHP-Task-bayt.com"
 
 2. Run "composer install"
 
